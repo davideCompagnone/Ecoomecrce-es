@@ -1,2 +1,2 @@
 # Ecoomecrce-es
-esercizio di eccomorce monolotico
+esercizio di ecomerce monolotico
